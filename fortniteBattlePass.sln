@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fortniteBattlePass", "fortniteBattlePass\fortniteBattlePass.csproj", "{7275B3C3-FF7A-40D5-BB04-DFCE2D4C96DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7275B3C3-FF7A-40D5-BB04-DFCE2D4C96DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7275B3C3-FF7A-40D5-BB04-DFCE2D4C96DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7275B3C3-FF7A-40D5-BB04-DFCE2D4C96DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7275B3C3-FF7A-40D5-BB04-DFCE2D4C96DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26218B9-1FCD-42E1-8360-46EF3944F358}
+	EndGlobalSection
+EndGlobal
