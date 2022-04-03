@@ -10,10 +10,10 @@ namespace fortniteBattlePass
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" ");
+            Console.WriteLine("Zadej číslo bejku. ");
             int cislo1 = Convert.ToInt32(Console.ReadLine());
             Console.Clear();
-            Console.WriteLine(" ");
+            Console.WriteLine("Zadej číslo kterým bys hodnotil nekoparu. (10)");
             int cislo2 = Convert.ToInt32(Console.ReadLine());
             int[] cisla = { cislo1, cislo2 };
             Console.Clear();
