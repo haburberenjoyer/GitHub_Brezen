@@ -19,8 +19,16 @@ namespace fortniteBattlePass
             Console.Clear();
             int max = cisla.Max();
             int min = cisla.Min();
+            if (cislo1 == cislo2)
+            {
+                Console.WriteLine("Cisla se rovnaj");
+                Console.ReadLine();
+            }
+            else if (cislo1 != cislo2)
+            {
             Console.WriteLine(max + ", " + min);
             Console.ReadLine();
+            }
         }
     }
 }
